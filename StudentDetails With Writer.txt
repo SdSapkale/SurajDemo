@@ -1,0 +1,15 @@
+BankAccount [rollNo=1, studName=SURAJKUMAR, subType=java, balance=12000.0, dateOfBirth=2020-07-24, 
+AddProof city=Jalgaon, state=Maharashtra, country=INDIA, phoneNo=8483818963]
+
+BankAccount [rollNo=2, studName=KUMAR, subType=dbt, balance=12000.0, dateOfBirth=2020-07-02, 
+AddProof city=Jalgaon, state=Maharashtra, country=INDIA, phoneNo=84838189]
+
+BankAccount [rollNo=3, studName=DNYANESHWAR, subType=cpp, balance=10002.0, dateOfBirth=1980-05-15, 
+AddProof city=Jalgaon, state=Maharashtra, country=INDIA, phoneNo=848381]
+
+BankAccount [rollNo=4, studName=SAPKALE, subType=awp, balance=12345.0, dateOfBirth=1993-06-09, 
+AddProof city=Jalgaon, state=Maharashtra, country=INDIA, phoneNo=8483]
+
+BankAccount [rollNo=5, studName=SAPKALE1, subType=java, balance=12345.0, dateOfBirth=1993-06-09, 
+null
+
